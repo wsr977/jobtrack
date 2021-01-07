@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c3cb2ee-b1dc-4853-a3f6-cce2af462a83" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="tsconfig.json" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1maHhxxQSszxOmAEl7phLawHO8I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/jobTrackManageSystem项目" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\毕业实习\jobTrackManageSystem\api" />
+      <recent name="D:\毕业实习\jobTrackManageSystem\page\enterprise" />
+      <recent name="D:\毕业实习\jobTrackManageSystem\page\student" />
+      <recent name="D:\毕业实习\jobTrackManageSystem\page" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\毕业实习\jobTrackManageSystem\page\error" />
+      <recent name="D:\毕业实习\jobTrackManageSystem\page\login" />
+      <recent name="D:\毕业实习\jobTrackManageSystem\page\home" />
+      <recent name="D:\毕业实习\jobTrackManageSystem\page\user" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.addMajor.html">
+    <configuration name="addClass.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jobTrackManageSystem/page/class/addClass.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="addMajor.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jobTrackManageSystem/page/department/addMajor.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="editClass.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jobTrackManageSystem/page/class/editClass.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="findClass.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jobTrackManageSystem/page/class/findClass.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="majorManage.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jobTrackManageSystem/page/department/majorManage.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.addMajor.html" />
+        <item itemvalue="JavaScript Debug.majorManage.html" />
+        <item itemvalue="JavaScript Debug.editClass.html" />
+        <item itemvalue="JavaScript Debug.findClass.html" />
+        <item itemvalue="JavaScript Debug.addClass.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c3cb2ee-b1dc-4853-a3f6-cce2af462a83" name="Default Changelist" comment="" />
+      <created>1609724904723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609724904723</updated>
+      <workItem from="1609724905893" duration="15162000" />
+      <workItem from="1609814586151" duration="8512000" />
+      <workItem from="1609917746712" duration="18644000" />
+      <workItem from="1609979934856" duration="16474000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="716" y="295" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609989850488">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="716" y="295" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609989850488" />
+    <state x="561" y="57" key="FileChooserDialogImpl" timestamp="1609999714320">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="449" y="45" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1609824456141" />
+    <state x="561" y="57" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1609999714320" />
+    <state x="489" y="190" key="SettingsEditor" timestamp="1609945894849">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="489" y="190" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1609945894849" />
+    <state x="608" y="163" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1609936466742">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="608" y="163" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1609936466742" />
+    <state x="321" y="0" width="1262" height="1035" key="search.everywhere.popup" timestamp="1609988288638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="257" y="0" width="1009" height="820" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1609828042920" />
+    <state x="321" y="0" width="1262" height="1035" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1609988288638" />
+  </component>
+</project>
